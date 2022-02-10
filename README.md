@@ -1,4 +1,4 @@
-## Oii! Eu sou a Sabrina Gomes e este é o meu portfólio <3
+## Oii! Eu sou a Sabrina Gomes
  <div>
   <a href="https://github.com/devsabrinagomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsabrinagomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
