@@ -1,8 +1,8 @@
-## Oiii! Eu sou a Sabrina Gomes
+## Oii! Eu sou a Sabrina Gomes
  <div>
-  <a href="https://github.com/sabrinagoms1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinagoms1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinagoms1&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/devsabrinagomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsabrinagomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsabrinagomes&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sabrina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,8 +18,8 @@
   ##
  
 <div> 
-  <a href = "mailto:sabrinagoms1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sabrina-gomes-5b2613122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:devsabrinagomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/devsabrinagomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
