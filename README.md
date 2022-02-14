@@ -10,6 +10,7 @@
   <img align="center" alt="Sabrina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Sabrina-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="center" alt="Sabrina-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+ <img align="center" alt="Sabrina-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg">
 <!--   <img align="center" alt="Sabrina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
  <img align="right" alt="Sabrina-gif" src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif"  width="200" height="200">
 </div>
